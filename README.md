@@ -1,4 +1,5 @@
 # my-python-projects
-First repository test
 
-Test with the edits
+This repo is for my small projects to practice my python skills.
+
+Those small practice projects I created came from Automate The Boring Stuff with Python 2nd edition book.
